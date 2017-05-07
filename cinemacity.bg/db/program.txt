@@ -1,0 +1,10 @@
+mountyear:132017#cinema:Cinema City Бургас#title:Logan#type:IMAX#hours:10,30#
+mountyear:132017#cinema:Cinema City Бургас#title:Forrest Gump#type:3D#hours:17,00#
+mountyear:132017#cinema:Cinema City Бургас#title:Riddick#type:IMAX#hours:10,30#
+mountyear:132017#cinema:Cinema City Русе#title:The Lord of the Rings#type:Duplicate#hours:17,00#
+mountyear:132017#cinema:Cinema City Стара Загора#title:Forrest Gump#type:3D#hours:19,30#
+mountyear:132017#cinema:Cinema City Стара Загора#title:Kong#type:IMAX#hours:17,00#
+mountyear:132017#cinema:Cinema City Paradise#title:King Arthur#type:Duplicate#hours:17,00#
+mountyear:132017#cinema:Cinema City Бургас#title:Ghost in the Shell#type:4DX#hours:19,30#
+mountyear:132017#cinema:Cinema City София#title:CHiPs#type:Duplicate#hours:17,00#
+mountyear:132017#cinema:Cinema City Русе#title:Smurfs#type:4DX#hours:15,00#
