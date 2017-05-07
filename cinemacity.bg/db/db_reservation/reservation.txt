@@ -1,4 +1,0 @@
-name:John Doy#cinema:Cinema City Бургас#movie:Logan#type:IMAX#date:04/04/2017#hour:13,00#
-name:Mary Ann#cinema:Cinema City Бургас#movie:Logan#type:IMAX#date:04/04/2017#hour:13,00#
-name:Pesho Georgiev#cinema:Cinema City София#movie:Forrest Gump#type:3D#date:04/04/2017#hour:22,00#
-name:Joe Cook#cinema:Cinema City Стара Загора#movie:The Lord of the Rings#type:Duplicate#date:04/06/2017#hour:17,00#
