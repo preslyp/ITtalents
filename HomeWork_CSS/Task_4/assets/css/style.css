@@ -1,0 +1,36 @@
+* {	padding: 0;	margin: 0;	}
+
+#wrapper {
+	width: 600px;
+	margin: 10px auto;
+	overflow: hidden;
+}
+
+
+header, footer {
+	width: 100%;
+	height: 100px;
+	background: #497e7f;
+}
+main {
+	width: 70%;
+	background: #4bff01;
+	height: 400px;
+	float: right;
+	margin: 10px 0;
+}
+aside {
+	width: 28%;
+	height: 400px;
+	background: #d800ad;
+	float: left;
+	/*margin-right: 1%;*/
+	margin-top: 10px;
+}
+
+footer {
+	background: #0301ef;
+	overflow: hidden;
+	margin-top: 10px;
+}
+
